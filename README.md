@@ -11,7 +11,7 @@
                       - LinkedIn: [https://www.linkedin.com/in/pupuli-pattnaik-792560183/]
 - GitHub: @Pupuli99
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I jumped into analytics with a 'let's do this!' vibe—now I’m on a mission to prove it wasn’t just caffeine talking!😄📊
+- ⚡ Fun fact: I jumped into analytics world with a 'let's do this!' vibe — now I’m on a mission to prove it wasn’t just caffeine talking!😄📊
 <!---
 Pupuli99/Pupuli99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
