@@ -2,11 +2,11 @@
 - 👀 I’m interested in the feild of analytics, focusing on transforming raw data into meaningful insights.
 - 🌱 I’m currently learning Python and its various libraries for data analysis and visualization.
 - 💞️ I’m looking to collaborate on data analytics projects, particularly those involving:
-                        - Data visualization dashboards
-                        - Python-based data analysis
-                        - SQL database projects
-                        - Business intelligence solutions using Power BI
-                        - Data cleaning and transformation workflows
+                          - Data visualization dashboards
+                          - Python-based data analysis
+                          - SQL database projects
+                          - Business intelligence solutions using Power BI
+                          - Data cleaning and transformation workflows
 - 📫 How to reach me - Email: pattnaikpupuli@gmail.com
                       - LinkedIn: [https://www.linkedin.com/in/pupuli-pattnaik-792560183/]
 - GitHub: @Pupuli99
